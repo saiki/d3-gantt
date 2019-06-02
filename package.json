@@ -1,0 +1,25 @@
+{
+  "name": "d3-gantt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^5.9.2",
+    "d3-array": "^2.2.0",
+    "d3-collection": "^1.0.7",
+    "d3-color": "^1.2.3",
+    "d3-format": "^1.3.2",
+    "d3-interpolate": "^1.3.2",
+    "d3-scale": "^3.0.0",
+    "d3-selection": "^1.4.0",
+    "d3-time": "^1.0.11",
+    "d3-time-format": "^2.1.3",
+    "http-server": "^0.11.1"
+  }
+}
